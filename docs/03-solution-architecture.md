@@ -26,39 +26,10 @@ The core components are:
 ## High-Level Architecture
 
 ```
-External Supplier / Internal Reviewer / Administrator
-            |
-            v
-        Route 53 (DNS)
-            |
-            v
-        CloudFront (CDN + HTTPS + WAF)
-            |
-            v
-        S3 — Frontend Bucket (Static Web App)
-            |
-            v
-        Amazon Cognito (Authentication)
-            |
-            v
-        API Gateway (HTTPS REST API)
-            |
-            v
-          Lambda (Business Logic)
-          /              \
-         v                v
-    DynamoDB          S3 — Document Bucket
-    (Metadata)            |
-                          v
-                         SNS (Notifications)
-
-        [CloudWatch — Logs, Metrics, Alarms]
-        [CloudTrail — API Audit Logging]
-        [KMS — Encryption Key Management]
-        [IAM — Least-Privilege Access Control]
+![Solutions Architecture Diagram](../diagrams/Solutions%20Architecture%20Diagram.png)
 ```
 
-![Solutions Architecture Diagram](../diagrams/Solutions%20Architecture%20Diagram.png)
+
 ---
 
 ## AWS Services — Selection and Rationale
