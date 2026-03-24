@@ -58,6 +58,7 @@ External Supplier / Internal Reviewer / Administrator
         [IAM — Least-Privilege Access Control]
 ```
 
+![Solutions Architecture Diagram](Solutions Architecture Diagram.png)
 ---
 
 ## AWS Services — Selection and Rationale
