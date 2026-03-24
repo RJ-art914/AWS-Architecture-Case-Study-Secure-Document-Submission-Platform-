@@ -25,9 +25,9 @@ The core components are:
 
 ## High-Level Architecture
 
-```
+
 ![Solutions Architecture Diagram](../diagrams/Solutions%20Architecture%20Diagram.png)
-```
+
 
 
 ---
