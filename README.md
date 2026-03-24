@@ -20,7 +20,7 @@ This project presents a **fully serverless, cloud-native architecture on AWS** t
 
 ## Architecture Diagram
 
-![Solutions Architecture Diagram](../diagrams/Solutions%20Architecture%20Diagram.png)
+![Solutions Architecture Diagram](diagrams/Solutions%20Architecture%20Diagram.png)
 
 *Figure: Serverless document intake and review platform deployed in AWS EU (Frankfurt). See [03-solution-architecture.md](docs/03-solution-architecture.md) for a detailed component-by-component breakdown.*
 
