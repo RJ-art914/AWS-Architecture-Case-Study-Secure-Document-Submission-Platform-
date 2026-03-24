@@ -8,15 +8,7 @@ This document defines the functional and non-functional requirements for the Sec
 
 ## Stakeholders
 
-The following stakeholder groups are considered in scope for this solution:
-
-| Stakeholder | Role |
-|---|---|
-| **External Suppliers** | Submit compliance documents, certificates, and technical files through the platform |
-| **Internal Reviewers** | Access submitted documents, review content, and update processing status |
-| **Platform Administrators** | Manage user access, configure the platform, and oversee system operations |
-| **Business Management** | Require transparency, traceability, and efficient handling of supplier documents |
-| **IT / Security Teams** | Responsible for operational stability, access governance, and compliance oversight |
+Stakeholders, assumptions, and scope boundaries are defined in 01-business-scenario.md. This document focuses on functional and non-functional requirements." 
 
 ---
 
