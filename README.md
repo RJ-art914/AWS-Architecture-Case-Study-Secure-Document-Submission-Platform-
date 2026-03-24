@@ -20,7 +20,7 @@ This project presents a **fully serverless, cloud-native architecture on AWS** t
 
 ## Architecture Diagram
 
-![High-level architecture of the Secure Document Submission and Processing Platform](diagrams/architecture-diagram.png)
+![High-level architecture of the Secure Document Submission and Processing Platform](Solutions Architecture Diagram.png)
 
 *Figure: Serverless document intake and review platform deployed in AWS EU (Frankfurt). See [03-solution-architecture.md](docs/03-solution-architecture.md) for a detailed component-by-component breakdown.*
 
