@@ -8,7 +8,7 @@ This document defines the functional and non-functional requirements for the Sec
 
 ## Stakeholders
 
-Stakeholders, assumptions, and scope boundaries are defined in [01-business-scenario.md](docs/01-business-scenario.md). This document focuses on functional and non-functional requirements. 
+Stakeholders, assumptions, and scope boundaries are defined in [01-business-scenario.md](/01-business-scenario.md). This document focuses on functional and non-functional requirements. 
 
 ---
 
