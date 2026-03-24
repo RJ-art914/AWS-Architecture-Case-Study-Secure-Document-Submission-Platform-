@@ -81,7 +81,7 @@ The following estimate reflects a small manufacturing company with ~50 active us
 | CloudTrail      | Free (first trail)           |
 | **Total**       | **~USD 10–15/month**         |
 
-> **Note:** These are indicative estimates based on AWS public pricing for eu-central-1 (Frankfurt) as of early 2025. Actual costs depend on usage patterns, data volume, and retention settings. Use the [AWS Pricing Calculator](https://calculator.aws) for precise estimates.
+> **Note:** These are indicative estimates based on AWS public pricing for eu-central-1 (Frankfurt) as of early 2026. Actual costs depend on usage patterns, data volume, and retention settings. Use the [AWS Pricing Calculator](https://calculator.aws) for precise estimates.
 
 ---
 
