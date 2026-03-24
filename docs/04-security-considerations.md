@@ -75,7 +75,7 @@ All API calls between AWS services (Lambda → S3, Lambda → DynamoDB, Lambda �
 The document storage bucket is configured with:
 - **Block All Public Access** enabled
 - **Versioning** enabled to protect against accidental deletion or overwrites
-- **Object Lock** (WORM mode) available for compliance-sensitive document retention
+- **Object Lock** S3 Object Lock (WORM mode) is available for activation if compliance-sensitive document retention is required in future iterations.
 - **Bucket Policy** explicitly denying `s3:DeleteObject` for all roles except the Administrator
 
 ---
